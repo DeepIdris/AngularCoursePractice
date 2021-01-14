@@ -1,3 +1,6 @@
+# AngularCoursePractice
+This is my practice following the Deborah Kurata's Angular Getting Started Course. This course can be found on PluralSight.
+
 # APM
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
